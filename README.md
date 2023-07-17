@@ -2,12 +2,8 @@
 * Tecnico em Informática para Internet (2020-2022)
 * Tecnologo em Analise e Desenvolvimento de Sistemas (2023)
 * Estágio Densevolvedor de Softaware na Empresa Weld Vision (2 meses)
-<div>
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NomadesPrime&layout=compact&theme=github_dark_dimmed" />
-</a>
-</div>
+
+
 
 
 <div style="display: inline-block">
