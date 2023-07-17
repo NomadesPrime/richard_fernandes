@@ -1,7 +1,7 @@
 # Mobile and Web Developer
 * Tecnico em Informática para Internet (2020-2022)
 * Tecnologo em Analise e Desenvolvimento de Sistemas (2023)
-* Estágio Densevolvedor de Softaware na Empresa Weld Vision (2 meses)
+* Estágio Densevolvedor de Softaware na Empresa Weld Vision (atualmente)
 
 
 
